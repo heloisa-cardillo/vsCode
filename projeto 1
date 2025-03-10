@@ -34,5 +34,22 @@
     <a href="https://www.grupodeapoioaoscoelhos.org.br/">link text</a>
     <img src="coelhos.jpg">
 
+   <form>
+    <label for="fname">Do you have a bunny?</label><en>
+    <input type="radio" value="yes">
+    <input type="radio" value="no">
+    <br>
+    <label for="fname">Your bunny´s name:</label><en>
+    <input type="text" value="name"><en>
+        <br>
+    <label for="fname">Your bunny´s age:</label><en>
+    <input type="text" value="age"></en>
+    <br>
+    <br>
+    <input type="button"> Send </en>
+    <br>
+
+  </form>
+
 </body>
 </html>
