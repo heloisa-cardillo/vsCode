@@ -14,5 +14,22 @@
     <h5>José</h5>
     <h6>Pink</h6>
     <h7>Mingau</h7>
+
+    <ul>  
+        <li>Catalonia</li>
+        <li>Couve</li>
+        <li>Acelga</li>
+        <li>Chicória</li>
+        <li>Salsinha</li>
+    </ul>
+
+  <ol>
+        <li>Ração</li>
+        <li>Verduras</li>
+        <li>Brinquedos</li>
+        <li>Remédios</li>
+        <li>Exames</li>
+    </ol>
+    
 </body>
 </html>
