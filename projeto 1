@@ -48,8 +48,27 @@
     <br>
     <input type="button"> Send </en>
     <br>
-
   </form>
+
+  <style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+    <body>
+    <table style="width:100%">
+      <tr>
+        <th>Bunny 1</th>
+        <th>Bunny 2</th>
+        <th>Bunny 3</th>
+      </tr>
+      <tr>
+        <td>Amy</td>
+        <td>Hanna</td>
+        <td>Frida</td>
+      </tr>
+    </table>
+    </body>
 
 </body>
 </html>
