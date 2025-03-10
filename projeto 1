@@ -31,8 +31,13 @@
         <li>Exames</li>
     </ol>
 
-    <a href="https://www.grupodeapoioaoscoelhos.org.br/">link text</a>
-    <img src="coelhos.jpg">
+    <a href="https://www.grupodeapoioaoscoelhos.org.br/">link site</a>
+    <br>
+    <img src="attachments/coelhos.jpg" width="400" height="400">
+    <br>
+    <audio src="attachments/audio.mp3" controls autoplay loop></audio>
+    <br> 
+    <video src="attachments/video.mp4" controls autoplay loop></video>
 
    <form>
     <label for="fname">Do you have a bunny?</label><en>
