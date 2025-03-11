@@ -7,6 +7,30 @@
     <title>Document</title>
 </head>
 <body>
+  <header>
+    <h1>My Web Page</h1>
+    <nav>
+      <a href="#">Bunnys</a>
+    </nav>
+  </header>
+  <br>
+
+  <nav>
+    <ul>
+      <li><a href="#questionnaire">Questionnaire</a></li>
+      <li><a href="#informations">Informations</a></li>
+    </ul>
+  </nav>  
+<br>
+  <section>
+    <h2>A page for bunnys informations</h2>
+  </section>
+  <br>
+  <article>
+    <h2>Bunnys</h2>
+    <p>All about bunnys</p>
+  </article>
+  
     <h1>Amy</h1>
     <h2>Dani</h2>
     <h3>Frida</h3>
@@ -81,6 +105,17 @@
       </tr>
     </table>
     </body>
-
+    <br>
+    <aside>
+      <h3>Artigos Relacionados</h3>
+      <ul>
+        <li><a href="#">How to adopt a bunny</a></li>
+        <li><a href="#">Tips</a></li>
+      </ul>
+    </aside>
+    <br>
+    <footer>
+      <p>&copy; 2025 My Company</p>
+    </footer>      
 </body>
 </html>
